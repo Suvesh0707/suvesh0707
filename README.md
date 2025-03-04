@@ -23,6 +23,6 @@
 <a href="https://instagram.com/suvesh_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suvesh_05" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvesh0707&show_icons=true&locale=en&layout=compact" alt="suvesh0707" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvesh0707&" alt="suvesh0707" /></p>
