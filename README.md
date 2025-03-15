@@ -24,7 +24,7 @@
 
 ## 🏆 **GitHub Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=5ujay&theme=radical&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suvesh0707&theme=radical&no-frame=true" />
 </p>
 
 
