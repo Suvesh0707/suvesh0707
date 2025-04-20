@@ -1,8 +1,4 @@
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suvesh0707&theme=github_dark" alt="suvesh0707" />
-</div><br>
-<h2> 🏆 GitHub Achievements</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suvesh0707&theme=radical&no-frame=true" />
+<div align="center">  
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats? username=suveshmoza&theme=github_dark" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=suveshmoza&theme=github_dark"/>
 </div>
